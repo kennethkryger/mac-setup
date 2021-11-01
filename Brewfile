@@ -3,6 +3,7 @@ tap "homebrew/cask"
 # Shell
 brew "zsh"
 brew "zsh-completions"
+cask "iterm2"
 
 # Development
 brew "git"
