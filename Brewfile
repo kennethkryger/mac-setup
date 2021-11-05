@@ -4,6 +4,7 @@ tap "homebrew/cask"
 brew "zsh"
 brew "zsh-completions"
 cask "iterm2"
+brew "docker"
 
 # Development
 brew "git"
@@ -13,4 +14,4 @@ cask "visual-studio-code"
 # Applications
 cask "slack"
 cask "microsoft-edge"
-cast "gpg-suite-no-mail"
+cask "gpg-suite-no-mail"
