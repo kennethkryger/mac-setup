@@ -13,3 +13,4 @@ cask "visual-studio-code"
 # Applications
 cask "slack"
 cask "microsoft-edge"
+cast "gpg-suite-no-mail"
