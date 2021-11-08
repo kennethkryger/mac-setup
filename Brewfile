@@ -4,12 +4,12 @@ tap "homebrew/cask"
 brew "zsh"
 brew "zsh-completions"
 cask "iterm2"
-brew "docker"
 
 # Development
 brew "git"
 cask "dotnet-sdk"
 cask "visual-studio-code"
+brew "docker"
 
 # Applications
 cask "slack"
