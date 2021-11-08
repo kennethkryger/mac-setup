@@ -10,6 +10,7 @@ brew "git"
 cask "dotnet-sdk"
 cask "visual-studio-code"
 brew "docker"
+cask "docker"
 
 # Applications
 cask "slack"
