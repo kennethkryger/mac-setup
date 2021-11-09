@@ -6,8 +6,11 @@ brew "zsh-completions"
 cask "iterm2"
 
 # Development
-brew "git"
 cask "dotnet-sdk"
+tap "isen-ng/dotnet-sdk-versions"
+cask "dotnet-sdk3-1-400"
+cask "dotnet-sdk2-2-400"
+brew "git"
 cask "visual-studio-code"
 cask "docker"
 
