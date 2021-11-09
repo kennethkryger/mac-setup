@@ -13,6 +13,7 @@ cask "dotnet-sdk2-2-400"
 brew "git"
 cask "visual-studio-code"
 cask "docker"
+cask "rider"
 
 # Applications
 cask "slack"
