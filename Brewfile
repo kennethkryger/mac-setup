@@ -1,4 +1,5 @@
 tap "homebrew/cask"
+tap "homebrew/cask-drivers"
 
 # Shell
 brew "zsh"
@@ -29,3 +30,5 @@ cask "postman"
 cask "microsoft-teams"
 cask "remarkable"
 cask "teamviewer"
+cask "elgato-stream-deck"
+cask "elgato-control-center"
