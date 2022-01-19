@@ -7,6 +7,7 @@ brew "zsh-completions"
 cask "iterm2"
 
 # Development
+brew "azure-cli"
 cask "docker"
 cask "dotnet-sdk"
 brew "git"
