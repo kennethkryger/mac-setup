@@ -1,5 +1,6 @@
 tap "homebrew/cask"
 tap "homebrew/cask-drivers"
+tap "azure/functions"
 
 # Shell
 brew "zsh"
@@ -9,6 +10,7 @@ cask "iterm2"
 # Development
 brew "azure-cli"
 cask "azure-data-studio"
+brew "azure-functions-core-tools@4"
 cask "docker"
 cask "dotnet-sdk"
 brew "git"
