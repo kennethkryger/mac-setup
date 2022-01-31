@@ -20,10 +20,12 @@ cask "postman"
 cask "powershell"
 cask "rider"
 cask "visual-studio-code"
+cask "miro"
 
 # Communication
 cask "microsoft-teams"
 cask "slack"
+cask "logitech-g-hub"
 
 # Applications
 cask "elgato-stream-deck"
