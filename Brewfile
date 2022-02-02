@@ -1,6 +1,7 @@
 tap "homebrew/cask"
 tap "homebrew/cask-drivers"
 tap "azure/functions"
+tap "romkatv/powerlevel10k"
 
 # Shell
 brew "zsh"
@@ -17,6 +18,7 @@ brew "git"
 cask "microsoft-azure-storage-explorer"
 cask "microsoft-remote-desktop"
 cask "postman"
+brew "powerlevel10k"
 cask "powershell"
 cask "rider"
 cask "visual-studio-code"
