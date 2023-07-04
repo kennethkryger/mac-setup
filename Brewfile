@@ -1,4 +1,5 @@
 tap "homebrew/cask"
+tap "homebrew/cask-versions"
 tap "homebrew/cask-drivers"
 tap "azure/functions"
 tap "romkatv/powerlevel10k"
@@ -27,6 +28,7 @@ brew "powerlevel10k"
 cask "powershell"
 cask "rider"
 cask "visual-studio-code"
+cask "visual-studio-code-insiders"
 
 # Communication
 cask "microsoft-teams"
