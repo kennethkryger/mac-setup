@@ -38,7 +38,6 @@ cask "logitech-g-hub"
 # Applications
 cask "elgato-stream-deck"
 cask "elgato-control-center"
-cask "gimp"
 cask "google-chrome"
 cask "gpg-suite-no-mail"
 cask "onedrive"
