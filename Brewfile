@@ -36,6 +36,9 @@ cask "slack"
 cask "logitech-g-hub"
 
 # Applications
+cask "affinity-designer"
+cask "affinity-photo"
+cask "affinity-publisher"
 cask "elgato-stream-deck"
 cask "elgato-control-center"
 cask "google-chrome"
