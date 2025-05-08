@@ -26,7 +26,7 @@ cask "postman"
 brew "powerlevel10k"
 cask "powershell"
 cask "rider"
-cask "visual-studio-code
+cask "visual-studio-code"
 
 # Communication
 cask "microsoft-teams"
