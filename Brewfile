@@ -1,5 +1,3 @@
-tap "homebrew/cask-versions"
-tap "homebrew/cask-drivers"
 tap "azure/functions"
 tap "romkatv/powerlevel10k"
 tap "isen-ng/dotnet-sdk-versions"
