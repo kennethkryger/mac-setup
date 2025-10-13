@@ -22,6 +22,7 @@ brew "node"
 cask "postman"
 brew "powerlevel10k"
 cask "powershell"
+cask "rancher"
 cask "rider"
 cask "visual-studio-code"
 
