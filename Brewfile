@@ -25,6 +25,7 @@ cask "powershell"
 cask "rancher"
 cask "rider"
 cask "visual-studio-code"
+cask "whimsical"
 
 # Communication
 cask "microsoft-teams"
