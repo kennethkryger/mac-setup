@@ -1,6 +1,5 @@
 tap "azure/functions"
 tap "romkatv/powerlevel10k"
-tap "isen-ng/dotnet-sdk-versions"
 
 # Shell
 brew "zsh"
@@ -12,7 +11,6 @@ brew "azure-cli"
 cask "azure-data-studio"
 brew "azure-functions-core-tools@4"
 cask "dotnet-sdk"
-cask "dotnet-sdk8-0-400"
 brew "gh"
 brew "git"
 cask "microsoft-azure-storage-explorer"
