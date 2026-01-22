@@ -8,12 +8,12 @@ cask "iterm2"
 
 # Development
 brew "azure-cli"
-cask "azure-data-studio"
 brew "azure-functions-core-tools@4"
 cask "copilot-cli"
 cask "dotnet-sdk"
 brew "gh"
 brew "git"
+cask "linear-linear"
 cask "microsoft-azure-storage-explorer"
 cask "microsoft-remote-desktop"
 cask "miro"
