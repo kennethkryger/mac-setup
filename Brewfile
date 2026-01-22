@@ -8,7 +8,6 @@ cask "iterm2"
 
 # Development
 brew "azure-cli"
-brew "azure-functions-core-tools@4"
 cask "copilot-cli"
 cask "dotnet-sdk"
 brew "gh"
