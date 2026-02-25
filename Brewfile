@@ -1,4 +1,3 @@
-tap "azure/functions"
 tap "romkatv/powerlevel10k"
 
 # Shell
