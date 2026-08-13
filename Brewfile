@@ -24,7 +24,6 @@ cask "rancher"
 cask "rider"
 cask "superwhisper"
 cask "visual-studio-code"
-cask "whimsical"
 
 # Communication
 cask "microsoft-teams"
