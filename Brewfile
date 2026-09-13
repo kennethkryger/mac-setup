@@ -1,5 +1,3 @@
-tap "romkatv/powerlevel10k"
-
 # Shell
 brew "zsh"
 brew "zsh-completions"
