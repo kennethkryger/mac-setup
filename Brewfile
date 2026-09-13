@@ -5,6 +5,7 @@ cask "iterm2"
 
 # Development
 brew "azure-cli"
+cask "microsoft/aspire/aspire"
 cask "claude"
 cask "claude-code"
 cask "copilot-cli"
